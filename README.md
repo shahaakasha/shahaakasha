@@ -27,7 +27,7 @@ domain_focus:      Finance data products, GTM analytics, SaaS KPI governance, fo
 ai_product_focus:  Practical AI/ML use cases, anomaly detection, automated executive reporting
 product_leadership: Vision, roadmaps, business cases, prioritization, success metrics
 technical_partners: Data Engineering, Analytics, Finance, Sales Ops, Customer Success, Executives
-based_in:          San Jose, California 📍
+based_in:          San Francisco Bay Area, California 📍
 ```
 
 <br/>
