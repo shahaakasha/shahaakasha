@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakash%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-aakash/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakash0988@gmail.com)
-[![Location](https://img.shields.io/badge/Location-San%20Francisco%20Bay%20Area%2C%20CA-111827?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps?q=San+Jose,+CA)
+[![Location](https://img.shields.io/badge/Location-San%20Francisco%2C%20CA-111827?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps?q=San+Jose,+CA)
 
 </div>
 
